@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block main %}
+
+<h1 class="pb-4">Search Results</h1>
+
+<div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+  {% if recipes %}
+    {% for recipe in recipes %}
+      <a href="/recipe/{{ recipe.id }}" class="col text-center category__link">
+        <div class="category__img category__img--large shadow">
+          <img src="{{ recipe.image.url }}" alt="{{ recipe.name }}" loading="lazy">
+        </div>
+        <div class="pt-1">{{ recipe.name }}</div>
+      </a>
+    {% endfor %}
+  {% else %}
+    <p>No items found.</p>
+  {% endif %}
+</div>
+
+{% endblock main %}
