@@ -1,7 +1,7 @@
 # Django_CookingBlog
 Welcome👋 to the Cooking 🍽Blog repository! This project is a web application built with Django🔥 that allows users to explore and share various recipes🍱🧋. Whether you're a seasoned chef or a beginner in the kitchen🧑‍🍳️, this blog provides a platform for users to discover 😋delicious recipes and share their own culinary creations.
 
-# View Live Project Here: <a href="http://salluscookingblogdjango.pythonanywhere.com/" target="_blank">🎉View Now</a>
+# View Live Project Here: [🎉View Now](http://salluscookingblogdjango.pythonanywhere.com/)
 
 ### Features
 * **🍽️ Recipe Exploration:** Users can browse through a wide range of recipes from different categories, including Thai, American, Chinese, Mexican, and Indian cuisines.
