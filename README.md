@@ -13,7 +13,7 @@ Welcome👋 to the Cooking 🍽Blog repository! This project is a web applicatio
 
 # Usage
 To use the Cooking Blog web application, follow these steps:
-1. Clone the repository: git clone https://github.com/your-username/cooking-blog.git
+1. Clone the repository: git clone https://github.com/Sallu-Fullstack/Django_CookingBlog.git
 2. Install the required dependencies: pip install -r requirements.txt
 3. Set up the database by running the necessary migrations: python manage.py migrate
 4. Start the development server: python manage.py runserver
