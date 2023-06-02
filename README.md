@@ -1,13 +1,15 @@
 # Django_CookingBlog
 Welcome👋 to the Cooking 🍽Blog repository! This project is a web application built with Django🔥 that allows users to explore and share various recipes🍱🧋. Whether you're a seasoned chef or a beginner in the kitchen🧑‍🍳️, this blog provides a platform for users to discover 😋delicious recipes and share their own culinary creations.
 
+# View Live Project Here: [🎉View Now](http://salluscookingblogdjango.pythonanywhere.com/)
+
 ### Features
-**🍽️ Recipe Exploration:** Users can browse through a wide range of recipes from different categories, including Thai, American, Chinese, Mexican, and Indian cuisines.
-**🔍 Search:** A powerful search feature enables users to find specific recipes by name or ingredients.
-**🏷️ Categories:** Users can explore recipes based on different categories and discover new dishes within their preferred cuisine.
-**📝 Submit Recipe:** Registered users have the option to submit their own recipes to share with the community. They can provide recipe details such as name, description, email, ingredients, category, and even upload an image.
-**🔀 Explore Latest:** Users can explore the latest recipes added to the blog, giving them access to the most recent culinary creations.
-**🎲 Explore Random:** For those feeling adventurous or indecisive, the blog offers a random recipe feature. Users can discover unique recipes by simply clicking a button.
+* **🍽️ Recipe Exploration:** Users can browse through a wide range of recipes from different categories, including Thai, American, Chinese, Mexican, and Indian cuisines.
+* **🔍 Search:** A powerful search feature enables users to find specific recipes by name or ingredients.
+* **🏷️ Categories:** Users can explore recipes based on different categories and discover new dishes within their preferred cuisine.
+* **📝 Submit Recipe:** Registered users have the option to submit their own recipes to share with the community. They can provide recipe details such as name, description, email, ingredients, category, and even upload an image.
+* **🔀 Explore Latest:** Users can explore the latest recipes added to the blog, giving them access to the most recent culinary creations.
+* **🎲 Explore Random:** For those feeling adventurous or indecisive, the blog offers a random recipe feature. Users can discover unique recipes by simply clicking a button.
 
 # Usage
 To use the Cooking Blog web application, follow these steps:
